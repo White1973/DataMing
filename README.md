@@ -1,2 +1,1 @@
-# DataMing
-Code For MachineLearning
+Some works in Machine Learning
