@@ -1,1 +1,2 @@
-Some works in Machine Learning
+Some paratice in Machine Learning
+All the work is in DataMining
